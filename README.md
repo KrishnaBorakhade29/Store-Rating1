@@ -1,6 +1,6 @@
 # 🏬 Store Rating Application
 
-A full-stack web application for rating stores, supporting three user roles: **System Administrator**, **Normal User**, and **Store Owner**.
+StoreReview Hub: A Role-Based Store Rating Web Application
 
 # Features
 
